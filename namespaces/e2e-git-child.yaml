@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: e2e-git-child
-  labels:
-    usu-hnc.usu.com/parent: "e2e-git-root"
-    usu-hnc.usu.com/created-by: "usu-hnc"
-    team: "gitrepo-test"
